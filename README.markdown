@@ -27,7 +27,7 @@ Simple Rails helper to write Backtweets widgets for those that don't like to get
     # via             true                        If tweets contain '(via @BackType)'
     # links           false                       If links should be opened in new windows
     # size            "large"                     Size of button ("large" or "small")
-    # api_key         Awe.sm                      API Key for custom URL shortener
+    # api_key                                     Awe.sm API Key for custom URL shortener
     # short_url       Generated (bt.io)           Specify the pre-shortened URL that you would like to use
     # background                                  Button background color (e.g. 'FFFFFF')
     # border                                      Button border color (e.g. 'CCCCCC')
