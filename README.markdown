@@ -1,6 +1,6 @@
-## Backtweets Helper
+# Backtweets Helper
 
-Simple helper to write Backtweets widgets for those that don't like to get their hands dirty with JavaScript.
+Simple Rails helper to write Backtweets widgets for those that don't like to get their hands dirty with JavaScript.
 
 ## Installation
 
